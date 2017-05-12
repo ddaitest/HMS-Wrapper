@@ -8,8 +8,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/HMS-SDK" />
-            <option value="$PROJECT_DIR$/HMS-SDK-2.4.0.300" />
+            <option value="$PROJECT_DIR$/hw-hms-sdk" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,2 +1,6 @@
+apply plugin: 'com.github.dcendents.android-maven'
+
+group='com.github.ddaitest'
+
 configurations.maybeCreate("default")
 artifacts.add("default", file('HMS-SDK-2.4.0.300.aar'))
